@@ -10,7 +10,7 @@ object PasswordGenerator {
     // FIXED CONSTANTS — changing ANY of these breaks backward compatibility
     // =========================================================================
 
-    /** Public, immutable salt
+    /** Public, immutable salt */
     private val SALT: ByteArray = "extenderpass_fixed_salt_v5".toByteArray(Charsets.UTF_8)
 
     /** PBKDF2 iteration count. */
