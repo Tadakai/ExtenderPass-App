@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/license-GNU%20GPL%20v3-blue?style=flat-square" />
 </p>
 
-<p align="center">
   <b>Turn any short password into a strong, unique one — right from your pocket.</b><br/>
   Same input · Same output · Every device · Every time
 </p>
