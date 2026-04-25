@@ -117,7 +117,3 @@ The salt, iteration count, charset order, and rejection threshold are all **hard
 Prefer the terminal The same algorithm is available as a single-file Java CLI tool:
 
 **[ExtenderPass](https://github.com/Tadakai/ExtenderPass)** — runs on Linux, macOS and Windows with no dependencies.
-
----
-
-<p align="center">Made by <a href="https://github.com/Tadakai">Tadakai</a></p>
